@@ -1,8 +1,8 @@
 ﻿/*
 File Name: Program.cs
 
-*Name: Zulqarnayan Hossain, Liya T slassie, Mariah Jenkins
-*email:  hossaizn@mail.uc.edu, tslassll@mail.uc.edu, jenkim3@mail.uc.edu
+*Name: Zulqarnayan Hossain, Liya T Slassie
+*email:  hossaizn@mail.uc.edu, tslassll@mail.uc.edu
 *Assignment Number: In Class Assignment March 27, 2025
 *Due Date: March 27, 2025
 *Course #/Section:   IS 3050 Sectiion 001
@@ -29,6 +29,8 @@ namespace InClassIS3050March27
             iphone myiphone = new iphone();
             myiphone.Price = 1000;
             Console.WriteLine("Price of iphone is " + myiphone.Price);
+
+            Console.WriteLine("Liya T Slassie");
         }
     }
 }
